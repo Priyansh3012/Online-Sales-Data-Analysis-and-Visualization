@@ -23,7 +23,7 @@ This Analysis provided actionable insights to improve sales performance and cust
 ![image](https://github.com/Priyansh3012/Online-Sales-Data-Analysis-and-Visualization/assets/131145002/5cb83498-207e-42b2-8a0c-8d8c1ea1e0f5)
 ![image](https://github.com/Priyansh3012/Online-Sales-Data-Analysis-and-Visualization/assets/131145002/d652ec35-e70e-40ec-917b-d2e822ad7ec4)
 ![image](https://github.com/Priyansh3012/Online-Sales-Data-Analysis-and-Visualization/assets/131145002/d58af7cf-7ed6-4f96-a54a-215d123a430b)
-![image](https://github.com/Priyansh3012/Online-Sales-Data-Analysis-and-Visualization/assets/131145002/4a463f96-200d-499d-811b-280a6d48f313)
+![image](https://github.com/Priyansh3012/Online-Sales-Data-Analysis-and-Visualization/assets/131145002/51ad2ee9-d26e-44b1-a573-bd913f76728c)
 
 
 
