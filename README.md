@@ -1,4 +1,5 @@
 # Online Sales Data Analysis and Visualization
+
 In the "Online Sales Data Analysis and Visualization" project, I analyzed online sales data using Python libraries such as pandas, matplotlib, and seaborn to gain insights into product popularity, sales trends, and customer behavior. Key ﬁndings include:
 
 Tools: Python, Pandas, Matplotlib, Seaborn
