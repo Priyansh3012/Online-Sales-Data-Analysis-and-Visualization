@@ -16,3 +16,6 @@ Visualizations: Bar plots, line charts, pie plots.
 Recommendations: Focus on high-performing products .
 
 This Analysis provided actionable insights to improve sales performance and customer engagement.
+
+![image](https://github.com/Priyansh3012/Online-Sales-Data-Analysis-and-Visualization/assets/131145002/8a1fe099-2162-4c9f-b6d6-c5f75fa747fd)
+
