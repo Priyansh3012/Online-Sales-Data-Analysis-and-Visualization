@@ -17,8 +17,10 @@ Recommendations: Focus on high-performing products .
 
 This Analysis provided actionable insights to improve sales performance and customer engagement.
 
+# PROJECT SNAPSHOTS
+
 ![image](https://github.com/Priyansh3012/Online-Sales-Data-Analysis-and-Visualization/assets/131145002/8a1fe099-2162-4c9f-b6d6-c5f75fa747fd)
-![image](https://github.com/Priyansh3012/Online-Sales-Data-Analysis-and-Visualization/assets/131145002/deb1aedd-9485-4e3f-99be-f0acb2dee4cb)
+![image](https://github.com/Priyansh3012/Online-Sales-Data-Analysis-and-Visualization/assets/131145002/5cb83498-207e-42b2-8a0c-8d8c1ea1e0f5)
 
 
 
